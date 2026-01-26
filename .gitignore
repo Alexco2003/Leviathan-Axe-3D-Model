@@ -113,6 +113,7 @@ desktop.ini
 ._*
 
 #blender
+quit.blend
 *.pyc
 __pycache__
 /dist/
