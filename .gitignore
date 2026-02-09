@@ -114,6 +114,8 @@ desktop.ini
 
 #blender
 quit.blend
+*_AutoSave.blend
+*_AutoSave.blend1
 *.pyc
 __pycache__
 /dist/
