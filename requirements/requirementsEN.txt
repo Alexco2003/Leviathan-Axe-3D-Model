@@ -1,0 +1,14 @@
+1. 3D Modeling
+	- High Poly Modeling (Mandatory)
+	- Procedural Modeling – Optional
+	- Low Poly Modeling – Optional
+
+2. UV Mapping
+	- Correct unwrapping of the 3D object into 2D space (Clean and coherent UVs)
+
+3. Texturing
+	- Texturing performed in Substance Painter or another software of choice
+
+4. Final Presentation
+	- Setup of materials, textures, and lighting
+	- Final scene and presentation render(s)
