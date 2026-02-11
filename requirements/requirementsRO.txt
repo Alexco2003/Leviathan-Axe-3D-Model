@@ -1,0 +1,14 @@
+1. Modelare 3D
+	- Modelare High Poly (obligatoriu)
+	- Modelare procedurală – opțional
+	- Modelare Low Poly – opțional
+
+2. UV Mapping
+	- Desfășurarea corectă a obiectului 3D în spațiul 2D (UV-uri curate și coerente)
+
+3. Texturare
+	- Texturare realizată în Substance Painter sau în alt software la alegere
+
+4. Prezentare finală
+	- Setare materiale, texturi, lumini
+	- Scenă finală și render(e) de prezentare
