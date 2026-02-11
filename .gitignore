@@ -119,3 +119,8 @@ quit.blend
 *.pyc
 __pycache__
 /dist/
+
+#spp
+*.spp.painter_lock
+*.lock
+*_autosave_*.spp
