@@ -86,3 +86,19 @@ The development of this asset involved a professional industry-standard pipeline
 * **Git LFS (Large File Storage):** Utilized for efficient version control of large binary files like `.blend` and `.spp` projects.
 
 ---
+
+> [!IMPORTANT]
+> **Do not use the "Download ZIP" button** to get this project. Due to **Git LFS** (Large File Storage), the ZIP archive only contains 1KB pointers instead of the actual 3D files.
+> 
+> To get the full project including the 400MB+ binary files, please use one of the following methods:
+> 
+> 1. **Via Command Line:**
+>    ```bash
+>    git clone https://github.com/Alexco2003/Leviathan-Axe-3D-Model.git
+>    ```
+>    *(Make sure you have [Git LFS](https://git-lfs.com/) installed on your system)*.
+>
+> 2. **Via GitHub Desktop:**
+>    Click on **Code** -> **Open with GitHub Desktop**. The application will automatically handle the LFS files for you.
+
+---
