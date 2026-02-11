@@ -82,6 +82,7 @@ root/
 The development of this asset involved a professional industry-standard pipeline to ensure high visual quality and technical optimization:
 
 * **Blender 5.0.1:** Primary tool used for **High Poly** sculpting, **Low Poly** modeling, UV unwrapping, and final **Cycles** rendering.
+* **RetopoFlow (Blender Add-on):** Used for advanced retopology to ensure clean, industry-standard edge flow on the Low Poly model (`axe_lp`).
 * **Adobe Substance 3D Painter:** Used for professional **PBR texturing**, detail baking (Normal, AO, Curvature), and material authoring.
 * **Git LFS (Large File Storage):** Utilized for efficient version control of large binary files like `.blend` and `.spp` projects.
 
