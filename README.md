@@ -82,9 +82,14 @@ root/
 The development of this asset involved a professional industry-standard pipeline to ensure high visual quality and technical optimization:
 
 * **Blender 5.0.1:** Primary tool used for **High Poly** sculpting, **Low Poly** modeling, UV unwrapping, and final **Cycles** rendering.
-* **RetopoFlow (Blender Add-on):** Used for advanced retopology to ensure clean, industry-standard edge flow on the Low Poly model (`axe_lp`).
 * **Adobe Substance 3D Painter:** Used for professional **PBR texturing**, detail baking (Normal, AO, Curvature), and material authoring.
 * **Git LFS (Large File Storage):** Utilized for efficient version control of large binary files like `.blend` and `.spp` projects.
+
+### 🔌 Specialized Add-ons
+To achieve professional results and a fast workflow, I utilized the following Blender add-ons:
+
+* **RetopoFlow:** A specialized third-party tool used for manual retopology. It ensured that the `axe_lp` model has a clean, industry-standard edge flow optimized for deformations and performance.
+* **Node Wrangler (Native):** An essential tool for shader management. It was used to efficiently set up PBR materials and preview nodes during the look-development phase in Blender.
 
 ---
 
